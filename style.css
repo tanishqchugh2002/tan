@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    text-align: center;
+   
+}
+h1{
+    font-size: 90px;
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    font-weight: 100;
+}
+.top{
+    border:solid;
+    border-color: black;
+    border-width: 10px;
+    background-color: #ff8474;
+    height: 580px;
+    width: 1300px;
+    padding: 20px;
+   
+}
+
+.middle{
+    margin-left: 260px;
+    border:solid;
+    border-width:20px ;
+    border-color: black;
+    background-color: saddlebrown;
+    width: 200px;
+    height: 200px;
+}
+.bottom{
+    margin-left: 500px;
+    background-color: chartreuse;
+    width: 200px;
+    height: 200px;
+    border: solid;
+    border-color: black;
+    border-width:10px ;
+} 
+span{
+    font-style: italic;
+    font-size: large;
+
+}
+.cloud{
+    position: absolute;
+    left: 600px;
+}
+
+
